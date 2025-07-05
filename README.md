@@ -1,6 +1,6 @@
 # 🇸🇦 SaudiCulture: Cultural Competence Benchmark for LLMs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 [![Dataset](https://img.shields.io/badge/Dataset-441_Questions-green.svg)](data/)
 [![Paper](https://img.shields.io/badge/Paper-Journal_of_King_Saud_University-blue.svg)](https://doi.org/10.1007/s44443-025-00137-9)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://python.org)

@@ -162,12 +162,7 @@ pytest tests/
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
-## 📚 Documentation
 
-- **[Data Collection Methodology](docs/data_collection.md)**: How the dataset was created
-- **[Evaluation Guide](docs/evaluation_guide.md)**: How to properly evaluate models
-- **[Cultural Guidelines](docs/cultural_guidelines.md)**: Understanding Saudi cultural context
-- **[API Reference](docs/api_reference.md)**: Complete API documentation
 
 ## 🎓 Research & Citation
 
@@ -195,22 +190,6 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 - **Academic Institutions**: King Khalid University, Umm Al-Qura University, Taibah University
 - **Research Areas**: Cultural AI, Arabic NLP, Cross-cultural Computing
 
-### Get Help
-- **📧 Email**: [saudiculture@project.org](mailto:saudiculture@project.org)
-- **💬 Discussions**: [GitHub Discussions](https://github.com/yourusername/saudi-culture-dataset/discussions)
-- **🐛 Issues**: [Report Issues](https://github.com/yourusername/saudi-culture-dataset/issues)
-
-## 🔗 Related Work
-
-This work builds upon and extends previous cultural benchmarks:
-- **ArabCulture** (Sadallah et al., 2025): Arabic cultural reasoning
-- **AraDiCE** (Mousi et al., 2024): Dialectal and cultural capabilities
-- **CulturalBench** (Chiu et al., 2024): Cross-cultural knowledge assessment
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - **Cultural Experts**: Native Saudi reviewers from all five regions
@@ -235,6 +214,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ for advancing cultural understanding in AI**
+
 
 *This dataset represents a step towards more inclusive and culturally-aware artificial intelligence systems that can better serve diverse global communities.*

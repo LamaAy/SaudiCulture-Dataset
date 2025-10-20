@@ -107,54 +107,11 @@ Below are automatically generated statistics from the cleaned dataset (v3).
 ```bash
 git clone https://github.com/yourusername/saudi-culture-dataset.git
 cd saudi-culture-dataset
-pip install -r requirements.txt
-```
-
-### Basic Usage
-```python
-from saudiculture import SaudiCultureBenchmark
-
-# Load the benchmark
-benchmark = SaudiCultureBenchmark()
-
-# Get questions by region
-west_questions = benchmark.get_questions(region="west")
-
-# Evaluate a model
-results = benchmark.evaluate(
-    model_name="gpt-4",
-    region="all",
-    question_format="open-ended"
-)
-
-print(f"Overall Accuracy: {results.accuracy:.2%}")
-```
-
-### Command Line Interface
-```bash
-# Evaluate a model on specific region
-python scripts/evaluate.py --model gpt-4 --region west --format all
-
-# Generate performance report
-python scripts/generate_report.py --results results/gpt4_evaluation.json
-
-# Visualize regional performance
-python scripts/visualize.py --type regional_comparison
-```
-
----
-
-## 📋 Dataset Structure
 
 ```
-data/
-├── raw/                          # Original collected data
-├── processed/                    # Clean, formatted datasets
-│   ├── saudiculture_full.json   # Complete dataset
-│   ├── by_region/               # Region-specific files
-│   └── by_category/             # Category-specific files
-└── examples/                    # Sample questions for each region
-```
+
+
+
 
 ---
 
